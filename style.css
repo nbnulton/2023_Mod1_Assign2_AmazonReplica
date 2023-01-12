@@ -1,0 +1,171 @@
+* {
+    /* border: 1px solid red; */
+    font-family: 'Roboto', sans-serif;
+}
+
+.main {
+
+}
+
+.main-top {
+    height: 100px;
+}
+
+.main-box {
+    display: flex;
+    border: 1px solid darkgray;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+.main-box-two {
+    width: 400px;
+}
+
+.sign-in-box {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.credentials-info {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.email-box {
+
+}
+
+input {
+    width: 98%;
+}
+
+.label {
+    padding-bottom: 10px;
+}
+
+.password-box-main {
+
+}
+
+.password-labels {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 40px;
+    padding-top: 5px;
+}
+
+.password-box {
+
+}
+
+.button1 {
+    padding-top: 20px;
+}
+
+.button1 button {
+    width: 100%;
+    height: 30px;
+}
+
+.account-button {
+    padding-bottom: 40px;
+}
+
+.account-button button {
+    width: 100%;
+    height: 30px;
+}
+
+.help-box {
+    color: rgb(67, 184, 252);
+}
+
+.new-amazon-box {
+    margin-left: auto;
+    margin-right: auto;
+    width: 380px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0px;
+    height: auto;
+}
+
+.border1 {
+    border-top: 1px solid darkgray;
+    width: 25%;  
+    position: relative;
+    top: 33px;
+}
+
+.inner {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.border2 {
+    border-top: 1px solid darkgray;
+    width: 25%; 
+    position: relative;
+    top: 33px; 
+}
+
+.account-button {
+    margin-left: auto;
+    margin-right: auto;
+    width: 380px;
+}
+
+footer {
+    border-top: 1px solid darkgray;
+}
+
+.footer-links-box {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+.footer-links-box li{
+    list-style-type: none; 
+}
+
+a:link {
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px;
+}
+
+li {
+    color: rgb(67, 184, 252);
+
+}
+
+.copyright-box {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    padding-left: 100px;
+}
+
+p {
+    font-size: 14px;
+}
+
+.button1 button {
+    background-color: rgb(241, 186, 82);
+    height: 30px;
+    font-size: 15px;
+    border-radius: 2px 2px 2px 2px;
+    border: 1px solid rgb(170, 127, 46);
+}
+
+h5, h3 {
+    font-weight: 100;
+}
